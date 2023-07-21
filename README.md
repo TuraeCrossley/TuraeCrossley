@@ -11,6 +11,7 @@ I have completed the following certifications to enhance my skills and knowledge
 Querying Microsoft SQL Server 2012/2014
 Career Essentials in Data Analysis by Microsoft and LinkedIn
 Google Data Analytics
+
 SKILLS
 
 My skills encompass a wide range of data-related domains, including Microsoft SQL Server, Relational Database Management System, Data Visualization using Power BI and Tableau, Data Aggregation, Data Migration (Python & SQL), Data Cleaning (Python & SQL), PostgreSQL, BigQuery, Python, Data Analytics, and Business Intelligence.
